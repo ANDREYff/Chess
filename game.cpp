@@ -10,21 +10,6 @@ Game::Game() : turn (true)
     welcomeMsg();
 
     run();
-
-
-//    inputStr = "e2e4";
-
-//    inputData(inputStr);
-
-
-//    inputData("e2e4");
-//    inputData("f7f6");
-//    inputData("e1e2");
-//    inputData("e2e3");
-//    inputData("e3f3");
-
-//    inputData("f3f4");
-//    inputData("f4f5");
 }
 
 Game::~Game() {
